@@ -1,0 +1,17 @@
+#titulo{font-style:italic;
+        text-align:"center";}
+
+.h1{font-family: 'Franklin Gothic Medium', 
+    'Arial Narrow', Arial, sans-serif;}
+#i1{
+    background-color: rgb(100, 204, 230);
+    font-weight:bold;
+    border:"10px";
+    border-color: black;
+    width:250px;
+}
+#i1:focus{
+    background-color:white;
+
+}
+
