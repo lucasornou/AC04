@@ -8,10 +8,11 @@
     font-weight:bold;
     border:"10px";
     border-color: black;
-    width:250px;
+    width:"250px";
 }
 #i1:focus{
     background-color:white;
 
 }
+
 
